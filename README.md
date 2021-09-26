@@ -1,5 +1,7 @@
 # [Bootstrap 5 Crash Course | Website Build & Deploy](https://www.youtube.com/watch?v=4sosXZsdy-s&list=WL&index=1)
-by Traversy Media
+Youtube video tutorial by Traversy Media
+
+[Link to Traversy Github Repo](https://github.com/bradtraversy/bootstrap-bootcamp-website)
 
 ## Sections
 
